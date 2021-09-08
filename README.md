@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaoalfredopires
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 🌱 I’m currently learning Back-end development with Java.
 - 📫 How to reach me: joaoalfredopires.prof@gmail.com
 
 <!---

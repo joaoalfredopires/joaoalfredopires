@@ -1,13 +1,13 @@
 - 👋 Olá, eu sou @joaoalfredopires
-- 👀 Tenho interesse na área de desevolvimento web.
-- 🌱 Atualmente estou estudando desenvolvimento em Back-end com java.
+- 👀 Tenho interesse na área de desevolvimento web e qualidade de software.
+- 🌱 Atualmente estou estudando automação de testes e desenvolvimento em Back-end com java.
 - 📫 Contato: joaoalfredopires.prof@gmail.com
 
 ------------------------------------------------------------
 
 - 👋 Hi, I’m @joaoalfredopires
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Back-end development with Java.
+- 👀 I’m interested in web development and software quality.
+- 🌱 I’m currently learning test automation and Back-end development with Java.
 - 📫 How to reach me: joaoalfredopires.prof@gmail.com
 
 <!---
